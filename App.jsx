@@ -1,6 +1,7 @@
 // App.js
 function greet() {
-  return "Hello from main!";
+  // Alice's change
+  return "Hello from Alice (feature1)!";
 }
 
 console.log(greet());
