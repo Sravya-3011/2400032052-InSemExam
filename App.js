@@ -1,3 +1,5 @@
 function greet() {
-  console.log('Hello from Alice - feature1');
+  console.log('Hello from Bob - feature2');
 }
+
+greet();
